@@ -19,7 +19,9 @@ SO THAT our own site is optimized for search engines
 - Fixed broken link.
 - Consolidated inefficient/duplicate CSS classes.
 - Added comments to HTML and CSS with appropriate titles.
+### Extra Upgrades:
 - Added link to homepage in header logo.
+- Improved responsiveness for 1080p desktop experience using `flex`.
 ### Preview of webpage:
 ![image](./assets/images/Preview-1.jpg)
 ![image](./assets/images/Preview-2.jpg)
